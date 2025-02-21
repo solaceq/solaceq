@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I’m a developer and tech enthusiast with a focus
 
 ## 💡 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,vscode,visualstudio,vim,sublime,replit,py,postman,php,mysql,linkedin,jquery,gmail,flutter,dart,cs,bootstrap,arch&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,vscode,visualstudio,vim,sublime,replit,py,postman,php,mysql,linkedin,jquery,gmail,flutter,dart,cs,bootstrap,arch&perline=7)](https://skillicons.dev)
 
 ---
 
