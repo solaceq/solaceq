@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 - 🌱 I’m learning **Rust** and **Python** to expand my programming knowledge and dive deeper into system-level development.
 - 👯 I’m interested in **computer repair**, **networking**, and everything related to **Linux**.
 - 💬 Feel free to ask me about **PC hardware, troubleshooting, or anything related to computers**. I enjoy helping others out!
-- 📫 How to reach me: **(https://www.linkedin.com/in/mehmet-efe-hoso-154a85351/)**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mehmet-efe-hoso-154a85351/)**.
 - ⚡ Fun fact: **I’ve built and repaired numerous PCs and love getting hands-on with hardware!**
 
 ---
