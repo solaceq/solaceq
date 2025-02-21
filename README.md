@@ -1,5 +1,7 @@
 # 👋 Hey, I'm **solaceq** 👾
 
+## 🚀 **Stop Code: Progress.exe Crashed**
+
 Welcome to my GitHub profile! I’m a developer and tech enthusiast with a focus on **hardware**, **Linux**, and **networking**. I’m passionate about solving problems with both code and physical hardware.
 
 ---
@@ -56,6 +58,7 @@ Welcome to my GitHub profile! I’m a developer and tech enthusiast with a focus
 
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/mehmet-efe-hoso-154a85351/)** – Connect with me to talk tech or collaborate on projects.
 - 📧 **[mefe.hoso@gmail.com](mailto:mefe.hoso@gmail.com)** – Feel free to reach out for anything!
+- 🎧 **[Spotify](https://open.spotify.com/user/zk5tjm6bmcxqpne32b7rjjmmi)** – Check out what I'm listening to!
 
 ---
 
@@ -68,7 +71,7 @@ Welcome to my GitHub profile! I’m a developer and tech enthusiast with a focus
 
 ## 💡 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,vscode,visualstudio,vim,sublime,replit,py,postman,php,mysql,linkedin,jquery,gmail,flutter,dart,cs,bootstrap,arch&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,vscode,visualstudio,vim,sublime,replit,py,postman,php,mysql,linkedin,jquery,gmail,flutter,dart,cs,bootstrap,arch&perline=5)](https://skillicons.dev)
 
 ---
 
